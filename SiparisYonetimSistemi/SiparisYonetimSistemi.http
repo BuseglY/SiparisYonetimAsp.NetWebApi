@@ -1,0 +1,6 @@
+@SiparisYonetimSistemi_HostAddress = http://localhost:5177
+
+GET {{SiparisYonetimSistemi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
